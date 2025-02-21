@@ -1,0 +1,2 @@
+first line in example.txt
+remote changes
